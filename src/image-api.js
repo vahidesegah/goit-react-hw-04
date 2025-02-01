@@ -6,7 +6,7 @@ const instance = axios.create({
   baseURL: "https://api.unsplash.com/",
   headers: {
     "Accept-Version": "v1",
-    Authorization: "Client-ID KCXAFHIe73kUQ02xyvKIYNiaYZzwL72ob7OSRDfIIDo",
+    Authorization: "Client-ID mz647j0jWRCqtN3KbD5y0xQ1oRiCtqnkZQufUmVee4Y",
   },
 });
 
